@@ -1,10 +1,9 @@
-<h1 <b align="center">Hey I'm Fajlajpos <b/></h1>
-<h2 align="center">DESIGNER & DEVELOPER </h2>
+<h1 align="center">Hey I'm Fajlajpos</h1>
+<h2 align="center">DESIGNER, DEVELOPER & MARKETER</h2>
+
+<p align="center">💡 <em>Crafting modern websites, applications, and e-commerce solutions. Blending creative design, clean code, and digital marketing to build and scale powerful digital experiences.</em></p>
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- 💡 <em>✏️ Crafting modern websites, applications, and e-commerce solutions. Blending creative design, clean code, and digital marketing to build and scale powerful digital experiences.</em>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -54,4 +53,3 @@
 <div align="center">
   <!---->
 </div>
-
