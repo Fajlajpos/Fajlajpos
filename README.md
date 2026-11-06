@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Fajlajpos</h1>
-<p> align="center">DESIGNER & DEVELOPER</p>
+<h2 align="center">DESIGNER & DEVELOPER</h2>
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
