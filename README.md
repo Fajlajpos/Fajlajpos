@@ -4,7 +4,7 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
+- 💡 <em>✏️ Crafting modern websites, applications, and e-commerce solutions. Blending creative design, clean code, and digital marketing to build and scale powerful digital experiences.</em>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
