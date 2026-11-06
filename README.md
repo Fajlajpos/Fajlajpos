@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Fajlajpos</h1>
-<p>DESIGNER & DEVELOPER</p>
+<p> align="center">DESIGNER & DEVELOPER</p>
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
@@ -55,4 +55,3 @@
   <!---->
 </div>
 
-<p align="center"><sub>Fajlajpos · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
