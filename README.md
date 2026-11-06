@@ -5,7 +5,7 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fajlajpos&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="fajlajpos's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=fajlajpos&theme=nightowl&hide_border=true&cache_seconds=86400" alt="fajlajpos's GitHub Streak" width="49%" />
@@ -14,11 +14,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajlajpos&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy-six.vercel.app/?username=fajlajpos&theme=nightowl&no-frame=true&no-bg=true" alt="Fajlajpos's GitHub Trophies" />
-</p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=fajlajpos&theme=nightowl&radius=10" alt="fajlajpos's Activity Graph" />
+</p>
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github.io" alt="Pull Shark" width="60" />
+  <img src="https://github.io" alt="YOLO" width="60" />
+  <img src="https://github.io" alt="Quickdraw" width="60" />
+  <img src="https://github.io" alt="Arctic Code Vault Contributor" width="60" />
 </p>
 
 ## 🛠️ Languages & Tools
@@ -53,4 +59,3 @@
 <div align="center">
   <!---->
 </div>
-
