@@ -17,7 +17,7 @@
 - 🇨 **C++**
 - 🐘 **PHP**
 
-### 🎨 Frontend & UI/UX
+## 🎨 Frontend & UI/UX
 - ⚛️ **React**
 - 🖤 **Next.js**
 - 🧡 **HTML5**
