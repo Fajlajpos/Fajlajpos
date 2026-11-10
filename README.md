@@ -25,6 +25,6 @@
 - 🍃 **Tailwind CSS**
 - 📐 **Figma**
 
-## 🔗 Connect with Me
+### 🔗 Connect with Me
 - 📧 **Email:** [you@example.com](mailto:you@example.com)
 - 💼 **LinkedIn:** [Váš LinkedIn profil](https://linkedin.com)
