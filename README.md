@@ -9,7 +9,7 @@
 
 ## 🛠️ Languages & Tools
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 - 🟨 **JavaScript**
 - 🟦 **TypeScript**
 - 🐍 **Python**
