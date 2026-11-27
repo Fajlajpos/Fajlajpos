@@ -26,5 +26,5 @@
 - 📐 **Figma**
 
 ### 🔗 Connect with Me
-- 📧 **Email:** [you@example.com](mailto:you@example.com)
+- 📧 **Email:** filipmayer7@gmail.com
 - 💼 **LinkedIn:** [Váš LinkedIn profil](https://linkedin.com)
